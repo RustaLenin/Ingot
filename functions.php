@@ -13,7 +13,6 @@
  **/
 
 define( 'THEME_DIR', dirname( __FILE__ )                              );
-define( 'THEME_ADM', dirname( __FILE__ ) . '/admin/'                  );
 define( 'THEME_COR', dirname( __FILE__ ) . '/core/'                   );
 define( 'THEME_MOD', dirname( __FILE__ ) . '/modules/'                );
 define( 'THEME_ASS', dirname( __FILE__ ) . '/assets/'	                );
